@@ -1,0 +1,7 @@
+datasources:f99f6ee069fa84887bc7cca55ec21f14015dbe4f
+commandlineoptions:65f95c924ba97541f47949701c4e3c51192a5b43
+suitesfrom:no-suites-from-option
+file:2fc205199fdfcf09b200fa88a58b1b48f5ff3c95
+--test testDemo6.Validate Unsuccessful error message is correct
+--test testDemo6.Validate Cards display in the Shopping Page
+--test testDemo6.Select the form and davigate to Child window
